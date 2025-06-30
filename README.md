@@ -11,12 +11,19 @@ This project is a deep learning-based web application that classifies poultry di
 📁 Modular folder structure for maintainability
 
 🧰 Tech Stack
+
 Layer	Tools Used
+
 Language	Python 3.9+
+
 Framework	Flask
+
 ML Framework	TensorFlow / Keras
+
 Frontend	HTML5, CSS3
+
 Deployment	Localhost, Render, or Replit
+
 IDEs	Google Colab, Jupyter Notebook
 
 📦 Dataset
